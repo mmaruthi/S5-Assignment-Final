@@ -23,3 +23,26 @@ Analysis:   
              And model has to be improved.
             
 File Link:https://github.com/mmaruthi/S5-Assignment-Final/blob/master/Step1.ipynb
+
+
+Step 2 :
+
+Targets:   
+
+        Params should be less than 15k. 
+        Use Batch Normalization to improve the model 
+        
+Results:
+        
+        Params - 13730 ,    
+        Best Train acc: 99.81
+        Best Test acc : 99.31
+        
+Analysis:   
+
+        Results  improved
+        But there is over fitting . Has  to reduce it.
+        And model has to be taken care to reduce parameters
+        
+File Link:https://github.com/mmaruthi/S5-Assignment-Final/blob/master/Step2.ipynb
+
