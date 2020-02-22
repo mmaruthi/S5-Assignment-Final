@@ -6,9 +6,7 @@ Step 1:
 Targets:   
 
            To have a basic skeleton with a good model.
-           
            Params should be less than 15k. 
-           
            Aim to max pool having a look at the data 
            
 Results:   
